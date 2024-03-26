@@ -1,6 +1,10 @@
 # Flight prices prediction
 This project presents a systematic approach to Exploratory Data Analysis (EDA) of flight data obtained from Online Travel Agent (OTA) websites such as Booking.com, Momondo, and Kayak. Web scraping techniques are employed to collect comprehensive flight information, including prices, airlines, departure times, arrival times, layover cities, layover times, aircraft types, and trip durations. The collected dataset is cleaned and preprocessed for data quality and consistency.
 
+<a target="_blank" href="https://colab.research.google.com/github/vinaysanga/Flight-Prices-Prediction/blob/master/MP1_Notebook.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## 1. Introduction
 
 Flight booking websites provide a convenient way for travelers to compare prices and book flights. The report addresses the challenge of sifting through overwhelming options by employing web scraping techniques to collect relevant flight data. The focus is on acquiring consistent and instant data from OTA websites for in-depth analysis.
@@ -25,4 +29,4 @@ We collected the data from Momondo, Book- ing.com, and Kayak for the flights bet
 - **Price**: The cost of the ticket (in USD)
 - **Site**: The flight aggregator where the data was taken from
 
-**For the entire info, please check [MP1_Report](https://github.com/vinaysanga/EDISS-Data-Science/blob/master/Mini%20Project%201/MP1_Report.pdf)**
+**For the entire info, please check [MP1_Report](https://github.com/vinaysanga/Flight-Prices-Prediction/blob/master/MP1_Report.pdf)**
