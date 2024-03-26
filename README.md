@@ -17,7 +17,7 @@ The report defines key data elements to be extracted, such as price, number of s
 
 ### 2.2 Data Scraping
 
-We collected the data from Momondo, Book- ing.com, and Kayak for the flights between Helsinki Vantaa (HEL) - Paris Charles de Gaulle (CDG) on 25th October. The tools available for scraping the data are BeautifulSoup and Se- lenium Web Driver. Since these are dynamic websites, we used the Selenium Web Driver to interact with them and collect the data. The dataset contains the following information:
+We collected the data from Momondo, Book- ing.com, and Kayak for the flights between Helsinki Vantaa (HEL) - Paris Charles de Gaulle (CDG) on 25th October. The tools available for scraping the data are BeautifulSoup and Selenium Web Driver. Since these are dynamic websites, we used the Selenium Web Driver to interact with them and collect the data. The dataset contains the following information:
 
 - **Layover**: The layover in the journey
 - **Stops**: Total number of stops
